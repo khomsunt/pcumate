@@ -70,3 +70,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 test by dward-net
 
 test by khomsunt
+
+test by khomsunt 2
